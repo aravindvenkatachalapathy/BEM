@@ -1,0 +1,3 @@
+[submodule "WETI-Style"]
+	path = WETI-Style
+	url = https://github.com/DavidSchlipf/WETI-Style
